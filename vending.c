@@ -14,5 +14,7 @@ int main(void){
     //variables for drinks
     float price3 = 5.00
     int quantity =2,5
+    char quantity = 1.5
+    
 
 }
